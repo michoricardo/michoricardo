@@ -1,4 +1,4 @@
-<h1 align="left">Whoami: Ricardo</h1>
+<h1 align="left">$ Whoami: Ricardo García </h1>
 <h3 align="left">A software engineer and student. Passionate about cybersecurity and computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michoricardo&label=Profile%20views&color=0e75b6&style=flat" alt="michoricardo" /> </p>
