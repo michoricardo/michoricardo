@@ -1,6 +1,13 @@
 <h1 align="left">$ Whoami: Ricardo García </h1>
 <h3 align="left">A software engineer and student. Passionate about cybersecurity and computer science.</h3>
 
+<p>An active user on tryhackme platform:</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/axolotlcode.png" alt="TryHackMe">
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michoricardo&label=Profile%20views&color=0e75b6&style=flat" alt="michoricardo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michoricardo" alt="michoricardo" /></a> </p>
