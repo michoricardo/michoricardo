@@ -10,9 +10,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michoricardo&label=Profile%20views&color=0e75b6&style=flat" alt="michoricardo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michoricardo" alt="michoricardo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michoricardo" alt="michoricardo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/michoricardo" target="blank"><img src="https://img.shields.io/twitter/follow/michoricardo?logo=twitter&style=for-the-badge" alt="michoricardo" /></a> </p>
+<p align="center"> <a href="https://twitter.com/michoricardo" target="blank"><img src="https://img.shields.io/twitter/follow/michoricardo?logo=twitter&style=for-the-badge" alt="michoricardo" /></a> </p>
 
 - 💬 Ask me about **Scripting, OSINT, Social engineering, cybersecurity, informatics**
 
