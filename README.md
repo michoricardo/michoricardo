@@ -2,8 +2,8 @@
 <h3 align="left">A software engineer and student. Passionate about cybersecurity and computer science.</h3>
 
 <p>An active user on tryhackme platform:</p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/axolotlcode.png" alt="TryHackMe">
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/axolotlcode.png" alt="TryHackMe">
 
 
 
