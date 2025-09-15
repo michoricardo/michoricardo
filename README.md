@@ -6,13 +6,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/axolotlcode.png" alt="TryHackMe">
 
 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=michoricardo&label=Profile%20views&color=0e75b6&style=flat" alt="michoricardo" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michoricardo" alt="michoricardo" /></a> </p>
-
-
 - 💬 Ask me about **Scripting, OSINT, Social engineering, cybersecurity, informatics**
 
 <h3 align="left">Connect with me:</h3>
